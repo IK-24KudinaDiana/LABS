@@ -2,7 +2,7 @@
 using ConsoleApp111.Clients;
 using ConsoleApp111.Models;
 using Newtonsoft.Json;
-
+//коментарі /різні спроби запустити програму
 //RecipesClients recipesClients = new RecipesClients();
 
 //var result = recipesClients.GetRecipeAsync("italian wedding soup");
