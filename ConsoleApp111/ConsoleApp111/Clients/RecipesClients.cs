@@ -15,15 +15,6 @@ namespace ConsoleApp111.Clients
         private static string _address;
         private static string _apikey;
 
-        //public RecipesClients()
-        //{
-        //    _address = Constants.address;
-        //    _apikey = Constants.apikey;
-        //    _httpClient = new HttpClient();
-        //    _httpClient.BaseAddress = new Uri(_address);
-        //}
-        //private readonly HttpClient client;
-
         public RecipesClients()
         {
             _address = Constants.address;
@@ -48,26 +39,6 @@ namespace ConsoleApp111.Clients
                 return body;
             }
         }
-        //public async Task<Recipes> GetRecipesAsync()
-        //{
-
-        //}
-        //////var client = new HttpClient();
-        ////    var request = new HttpRequestMessage
-        ////    {
-        ////        Method = HttpMethod.Get,
-        ////        RequestUri = new Uri("https://recipe-by-api-ninjas.p.rapidapi.com/v1/recipe?query=borsch"),
-        ////        Headers =
-        ////    {
-        ////        { "X-RapidAPI-Key", "34d7f3c379mshf511c2d5acb645fp1ddca2jsn939b03ca067e" },
-        ////        { "X-RapidAPI-Host", "recipe-by-api-ninjas.p.rapidapi.com" },
-        ////    },
-        ////    };
-        ////using (var response = await client.SendAsync(request))
-        ////{
-        //// response.EnsureSuccessStatusCode();
-        //// var body = await response.Content.ReadAsStringAsync();
-        ////    Console.WriteLine(body);
-        ////}
+       
     }
 }
