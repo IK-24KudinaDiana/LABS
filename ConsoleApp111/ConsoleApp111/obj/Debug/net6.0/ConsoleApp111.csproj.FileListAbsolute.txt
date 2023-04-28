@@ -1,0 +1,17 @@
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.exe
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.deps.json
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.runtimeconfig.json
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.dll
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.pdb
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.csproj.AssemblyReference.cache
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.AssemblyInfoInputs.cache
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.AssemblyInfo.cs
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.csproj.CoreCompileInputs.cache
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.dll
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\refint\ConsoleApp111.dll
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.pdb
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.genruntimeconfig.cache
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ref\ConsoleApp111.dll
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Навчання\programing\2 семестр\ConsoleApp111\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.csproj.CopyComplete
